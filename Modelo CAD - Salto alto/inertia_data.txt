@@ -1,0 +1,34 @@
+Mass properties of Women High Heels Shoes#2								
+     Configuration: Default								
+     Coordinate system: -- default --								
+								
+Density = 1.1600 grams per cubic centimeter								
+								
+Mass = 249.1165 grams				 0.249 				
+								
+Volume = 214.7556 cubic centimeters								
+								
+Surface area = 3665.1386  square centimeters								
+								
+Center of mass: ( centimeters )								
+	X = 0.0003			 0.000 				
+	Y = 8.4483			 0.084 				
+	Z = -19.5040			-0.195 				
+								
+Principal axes of inertia and principal moments of inertia: ( grams *  square centimeters )								
+Taken at the center of mass.								
+	 Ix = (-0.0004, -0.6438,  0.7652)   	Px = 4760.2818						
+	 Iy = (-0.0065, -0.7652, -0.6438)   	Py = 24130.3213						
+	 Iz = ( 1.0000, -0.0052, -0.0039)   	Pz = 25542.6721						
+								
+Moments of inertia: ( grams *  square centimeters )								km * m2
+Taken at the center of mass and aligned with the output coordinate system.						xx	25542.6093	 0.0026 
+	Lxx = 25542.6093	Lxy = 12.4459	Lxz = -0.5697			yy	16101.2376	 0.0016 
+	Lyx = 12.4459	Lyy = 16101.2376	Lyz = -9542.4383			zz	12789.4283	 0.0013 
+	Lzx = -0.5697	Lzy = -9542.4383	Lzz = 12789.4283			xy	12.4459	 0.0000 
+						xz	-0.5697	-0.0000 
+Moments of inertia: ( grams *  square centimeters )						yz	-9542.4383	-0.0010 
+Taken at the output coordinate system.								
+	Ixx = 138088.4065	Ixy = 13.1220	Ixz = -2.1306					
+	Iyx = 13.1220	Iyy = 110866.5545	Iyz = -50590.8592					
+	Izx = -2.1306	Izy = -50590.8592	Izz = 30569.9087					
